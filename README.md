@@ -3,10 +3,17 @@ A cathy themed rice I made for KDE Plasma 6, just drag and drop all the dotfiles
 
 # Requires:
 any distro of linux (preferrably arch)
+
 btop
+
 cava
+
 plasma-desktop
+
 kitty
+
 neofetch
+
 polybar
+
 rofi-wayland
