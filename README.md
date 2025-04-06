@@ -6,7 +6,7 @@ btop
 
 cava
 
-plasma-desktop
+plasma-meta
 
 kitty
 
